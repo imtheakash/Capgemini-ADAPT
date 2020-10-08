@@ -56,7 +56,7 @@ public	class Student
     }
     
     public void changeCollege(){
-        //string college = Console.ReadLine();
+        string college = Console.ReadLine();
         this.college = college;
     }
     public void input(){
